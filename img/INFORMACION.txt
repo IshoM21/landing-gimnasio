@@ -1,0 +1,16 @@
+// ICONOS
+<i class="fas fa-award"></i>       SERVICES
+
+<i class="fas fa-dumbbell"></i>    GYM
+
+<i class="fas fa-file-invoice"></i>    PROGRAMS
+
+<i class="fas fa-users"></i>   USUARIOS
+
+
+<i class="fas fa-bars"></i>   MENU BARS
+
+
+// COLORES
+#ff4048   ROJO
+#f5f5f5   GRISI
